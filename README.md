@@ -1,6 +1,8 @@
 # json_placeholder_JF
 
 Just managed to get some Cat Facts data... 
+Preview: https://json-homework.juliefield.repl.co/
+
 
 Original Homework: 
 Exercise 2 - Working with Promises
