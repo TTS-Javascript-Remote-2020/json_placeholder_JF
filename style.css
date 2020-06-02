@@ -1,0 +1,35 @@
+.cat-card {
+    width: 25%;
+    display: inline-block;
+    padding: 15px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background: #fff;
+    -webkit-box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.35);
+    -moz-box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.35);
+    box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.35);
+    margin: 20px;
+    text-align: center;
+}
+
+.cat-card-img {
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    margin: 20px auto;
+}
+
+.cat-card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.catpost-container {
+    display: flex;
+    flex-wrap: wrap;
+}
